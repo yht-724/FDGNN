@@ -230,7 +230,7 @@ PEMS07:
   lr_decay_rate: 0.1
   batch_size: 16
   max_epochs: 300
-  early_stop: 45
+  early_stop: 15
   use_cl: False
   cl_step_size: 2500
 
